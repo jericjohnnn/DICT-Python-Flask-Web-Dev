@@ -1,0 +1,6 @@
+
+# ignore all .txt files
+
+.idea/
+.venv/
+__pycache__
