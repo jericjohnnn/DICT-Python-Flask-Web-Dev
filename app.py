@@ -9,3 +9,6 @@ def animal():
     return """
     <h1>Fun animal facts!</h1>
     <p>paragraph</p>"""
+
+if __name__ == "__main__":
+    app.run()
