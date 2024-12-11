@@ -1,4 +1,4 @@
-Use this in the terminal
+
 <br><br>
 to install FLASK: pip install flask <br>
 to set app: set FLASK_APP=app.py <br>
